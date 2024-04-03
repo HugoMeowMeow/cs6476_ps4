@@ -1,0 +1,26 @@
+name: cs6476_proj4
+channels:
+- defaults
+- pytorch
+- conda-forge
+- sepandhaghighi
+dependencies:
+- jupyter
+- matplotlib
+- pip
+- Pillow=6.2
+- pytest
+- python=3.8
+- pytorch-cpu
+- torchvision-cpu=0.2
+- pyyaml
+- scikit-learn
+- scipy
+- opencv
+- pycm=3.4
+- mypy
+- numpy
+- Pillow
+- pandas
+- colour
+- imageio
